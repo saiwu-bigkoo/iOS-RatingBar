@@ -349,6 +349,7 @@
 				INFOPLIST_FILE = RatingBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -359,6 +360,7 @@
 				INFOPLIST_FILE = RatingBar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -415,6 +417,7 @@
 				327E5B251AE753E40086FAF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		327E5B261AE753E40086FAF0 /* Build configuration list for PBXNativeTarget "RatingBarTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +426,7 @@
 				327E5B281AE753E40086FAF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
